@@ -1,4 +1,4 @@
-# ImageShowCase
+# ImgShowCase
 基于JQuery电商网站的轮播及放大镜效果的插件
 ## html
 ```html
